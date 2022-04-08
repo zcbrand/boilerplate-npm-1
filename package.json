@@ -1,4 +1,5 @@
 {
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"author": "Zachary Brandenburg",
 	"description": "A project that does something awesome",
@@ -8,6 +9,7 @@
 		"words",
 		"freecodecamp"
 	],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
